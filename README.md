@@ -1,4 +1,9 @@
 <h1 align="center">Всем привет, меня зовут Павел <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h1>
+<p align="center">
+<a href="https://vk.com/tptechnician"><img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"></a>
+<a href="https://t.me/Tptechnician"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
+</p>
+
 
 ### Обо мне:
 Я начинающий Frontend-разработчик. На данный момент прохожу обучение на курсе [Веб-разработчика](https://practicum.yandex.ru/web/) в Яндекс Практикуме. Да, мой стек технологии пока не большой, но я постоянно углубляю свой знания в уже известных мне языках програмирования и фреймворках.
