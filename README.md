@@ -15,6 +15,7 @@
 - Изучить новые фреймворки;
 
 ## 🛠 Мой стек технологии:
+[![Visual Studio Code](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)](https://code.visualstudio.com/)
 [![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)](https://git-scm.com/)
 [![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)](https://html5book.ru/html-html5/)
 [![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
